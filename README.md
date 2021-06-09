@@ -4,4 +4,4 @@
 
 Dataset: https://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth
 
-You can either train the model by using your custom dataset and changing path of dataset in "AI_Proj.ipynb" python file or you can use our trained model provided in the link above and directly run "AI_Model.ipynb" python file
+You can either train the model by using your custom dataset and changing path of dataset in "AI_Proj.ipynb" python file
