@@ -1,4 +1,5 @@
-# Evaluation-System-Using-OCR
+# OCR
+Used CRNN to extract text from image and cosine similarity to evaluate the text.
 
 (MJ-SYNTH dataset, contains 9 millions images covering 90k words of English Language)
 
